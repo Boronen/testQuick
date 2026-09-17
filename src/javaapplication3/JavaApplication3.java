@@ -5,13 +5,13 @@ public class JavaApplication3 {
     public static void main(String[] args) {
         System.out.println("Gubek Vera ♥");
         System.out.println("Kovács Kevin");
-        System.out.println("Kiscicak");
+        System.out.println("Kiscicaka");
     }        
 
     public static void main(String[] args) {
         System.out.println("Gubek Vera ♥");
         System.out.println("Kovács Kevin");
-        System.out.println("Kiscicak");
+        System.out.println("Kiscicaka");
     }
     
 }
